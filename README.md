@@ -1,2 +1,2 @@
 # TheCredit
-A Singel Player Economyc Simulator
+A Single Player Economyc Simulator
