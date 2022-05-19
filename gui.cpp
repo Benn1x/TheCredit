@@ -46,7 +46,7 @@ MyFrame::MyFrame(const wxString &title, const wxPoint &pos, const wxSize &size) 
 
 
     wxBoxSizer *sizer = new wxBoxSizer(wxVERTICAL);
-    sizer->Add(panel_top, 2, wxEXPAND | wxLEFT | wxTOP | wxRIGHT, 15);
+    sizer->Add(panel_top, 2.5, wxEXPAND | wxLEFT | wxTOP | wxRIGHT, 10);
     sizer->Add(panel_bottom,1,wxEXPAND| wxLEFT| wxTOP| wxRIGHT, 10);
 
      wxSizer *sizer_bottom = new wxBoxSizer(wxVERTICAL);
